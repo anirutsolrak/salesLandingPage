@@ -1,5 +1,4 @@
 /* General Styles */
-
 body {
     font-family: 'Montserrat', sans-serif; /* Elegant and modern font */
     margin: 0;
@@ -33,12 +32,12 @@ header {
 }
 
 .header-container h1 {
-    font-size: 4.8vw; /* 4.8% of viewport width for font size */
+    font-size: 2rem; /* 4.8% of viewport width for font size */
     margin-bottom: 2vw; /* 2% of viewport width for margin */
 }
 
 .header-container p {
-    font-size: 3vw; /* 2% of viewport width for font size */
+    font-size: 1rem; /* 2% of viewport width for font size */
     line-height: 1.5; /* Adjust line height for spacing */
     margin-bottom: 4vw; /* 4% of viewport width for margin */
 }
@@ -72,7 +71,7 @@ header {
 }
 
 .hero-image img {
-    width: 100%;
+    max-width: 75%;
   border-right: 80%;
     height: auto;
     object-fit: cover; /* Ensure image fills the container while maintaining aspect ratio */
@@ -83,12 +82,12 @@ header {
 }
 
 .hero-text h2 {
-    font-size: 6vw; /* 5% of viewport width for font size */
+    font-size: 2rem; /* 5% of viewport width for font size */
     margin-bottom: 2.5vw; /* 2.5% of viewport width for margin */
 }
 
 .hero-text p {
-    font-size: 3vw; /* 2% of viewport width for font size */
+    font-size: 1rem; /* 2% of viewport width for font size */
     line-height: 1.6; /* Adjust line height for spacing */
     margin-bottom: 4vw; /* 4% of viewport width for margin */
 }
@@ -122,12 +121,12 @@ header {
 }
 
 .feature-item h3 {
-    font-size: 3.5vw; /* 2.5% of viewport width for font size */
+    font-size: 2rem; /* 2.5% of viewport width for font size */
     margin-bottom: 1.25vw; /* 1.25% of viewport width for bottom margin */
 }
 
 .feature-item p {
-    font-size: 3vw; /* 2% of viewport width for font size */
+    font-size: 1rem; /* 2% of viewport width for font size */
     line-height: 1.6; /* Adjust line height for spacing */
     margin-bottom: 2.5vw; /* 2.5% of viewport width for bottom margin */
 }
@@ -163,12 +162,12 @@ header {
 }
 
 .benefit-item h3 {
-    font-size: 3.5vw; /* 2.5% of viewport width for font size */
+    font-size: 2rem; /* 2.5% of viewport width for font size */
     margin-bottom: 1.25vw; /* 1.25% of viewport width for bottom margin */
 }
 
 .benefit-item p {
-    font-size: 3vw; /* 2% of viewport width for font size */
+    font-size: 1rem; /* 2% of viewport width for font size */
     line-height: 1.6; /* Adjust line height for spacing */
     margin-bottom: 2.5vw; /* 2.5% of viewport width for bottom margin */
 }
@@ -199,7 +198,7 @@ header {
 }
 
 .testimonial p {
-    font-size: 3vw; /* 2% of viewport width for font size */
+    font-size: 1rem; /* 2% of viewport width for font size */
     line-height: 1.6; /* Adjust line height for spacing */
     margin: 4px; /* Small margin */
 }
